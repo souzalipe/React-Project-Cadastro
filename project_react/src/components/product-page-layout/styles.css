@@ -1,0 +1,9 @@
+.product-page-layout {
+	display: flex;
+	flex-direction: row;
+	gap: 20px;
+}
+
+.cor-azul {
+  color: blue;
+}
