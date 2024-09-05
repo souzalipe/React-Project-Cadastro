@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700|Trade+Winds&display=swap');
+
+
+.product-list-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.conteiner_title{
+  background-color: #13aa52;
+  height: 50px;
+}
+
+.title{
+  margin: 0px;
+  margin-left: 5px;
+  color: #fff;
+}
